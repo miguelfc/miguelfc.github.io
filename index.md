@@ -7,7 +7,7 @@ import time
 
 def hello():
     while 1 > 0:
-      print ('hello! \a')
+      print ('hello \a')
       time.sleep (30)
 
 if __name__ == '__main__':
