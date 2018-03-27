@@ -6,7 +6,7 @@ import time
 # Look, a while loop:
 
 def hello():
-    while (1 > 0):
+    while 1 > 0:
       print ('hello! \a')
       time.sleep (30)
 
